@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.movetogbg">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".WelcomeScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AccountCreationBasicInfo"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".AccountCreationFamilyInfo"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".CategoryEducation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Education" />
+        <activity
+            android:name=".CategoryHealthcare"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Healthcare" />
+        <activity
+            android:name=".CategoryWork"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Work" />
+        <activity
+            android:name=".CategorySocial"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Social" />
+        <activity
+            android:name=".MapsActivityMap"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Social" />
+
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDmXGVX178g7OvVzqg-214iz9zB0iTyuX8"/>
+
+
+        <activity
+            android:name=".MainMenu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme">
+
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+
+    </application>
+
+</manifest>

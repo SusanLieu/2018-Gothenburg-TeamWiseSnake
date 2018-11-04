@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:spinnerDropDownItemStyle">@style/spinnerStyle</item>
+    </style>
+
+    <style name="AppTheme.Education" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/catAccomodation</item>
+        <item name="colorPrimaryDark">@color/catAccomodation</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/catAccomodation</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:spinnerDropDownItemStyle">@style/spinnerStyle</item>
+    </style>
+
+    <style name="AppTheme.Work" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/catWork</item>
+        <item name="colorPrimaryDark">@color/catWork</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/catWork</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:spinnerDropDownItemStyle">@style/spinnerStyle</item>
+    </style>
+
+    <style name="AppTheme.Social" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/catSocial</item>
+        <item name="colorPrimaryDark">@color/catSocial</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/catSocial</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:spinnerDropDownItemStyle">@style/spinnerStyle</item>
+    </style>
+
+    <style name="AppTheme.Healthcare" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/catHealthcare</item>
+        <item name="colorPrimaryDark">@color/catHealthcare</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/catHealthcare</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:spinnerDropDownItemStyle">@style/spinnerStyle</item>
+    </style>
+
+    <style name="spinnerStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+
+    <style name="DialogTheme" parent="@android:style/Theme.Light">
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:colorBackground">@color/colorPrimary</item>
+    </style>
+
+</resources>

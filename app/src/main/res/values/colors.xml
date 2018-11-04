@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="colorEdittextOutline">#d1d1d1</color>
+
+    <color name="colorDarkGrey">#767676</color>
+
+    <color name="secondColor">#49b3f1</color>
+
+    <color name="catHealthcare">#ffb8b8</color>
+    <color name="catAccomodation">#97ed8e</color>
+    <color name="catSocial">#b8d4ff</color>
+    <color name="catWork">#bebebe</color>
+
+    <color name="colorQuestion">#63c64b</color>
+
+    <color name="circleFill">#24000000</color>
+    <color name="circleStroke">#a8003780</color>
+    <color name="circleFade">#00ffffff</color>
+</resources>

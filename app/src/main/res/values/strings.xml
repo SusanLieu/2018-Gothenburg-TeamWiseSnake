@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">MoveToGBG</string>
+
+    //Front page
+    <string-array name="WelcomePage1">
+        <item>Hi!</item>
+        <item>This is Gothenburg</item>
+    </string-array>
+
+    <string-array name="WelcomePage2">
+        <item>Let\'s get started!</item>
+        <item>Next we will ask you to enter some information</item>
+    </string-array>
+
+    <string-array name="UserInfoPage1">
+        <item>Who are you?</item>
+        <item>Tell us about yourself</item>
+    </string-array>
+
+    <string-array name="UserInfoPage2">
+        <item>Almost done</item>
+        <item>Tell us about your family</item>
+    </string-array>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="kidsQuestion">
+        <item>I have kids</item>
+        <item>I have a partner</item>
+        <item>I have kids and a partner</item>
+    </string-array>
+
+    <string-array name="kidsAgeBracket">
+        <item>0–6 years old</item>
+        <item>7–18 years old</item>
+        <item>19–21 years old</item>
+        <item>21+ years old</item>
+    </string-array>
+
+
+    <string name="userInfoCheckboxHavingKidsOrPartner">I have children and/or a partner</string>
+    <string name="userInfoInputPartner">Partner and/or kids?</string>
+    <string name="userInfoInputKids">Age of kids</string>
+    <string name="userInfoCheckboxHaveKids">I have kids</string>
+    <string name="userInfoCheckboxPlanningKids">I am planning to have kids</string>
+
+    <string name="userInfoInputName">My name is</string>
+    <string name="userInfoInputAge">My age is</string>
+    <string name="userInfoInputGender">I am a</string>
+
+    <string name="welcomeScreenTouchToContinue">(Tap the screen to continue)</string>
+
+    <string name="basicInfoButton">Continue</string>
+
+    <string name="dialogTitle">Moving to Sweden checklist</string>
+    <string name="dialogContent">For guidance on the process of getting to Sweden, feel free to use our checklist provided by clicking the button below.</string>
+
+    <string name="topOfEducationAndHealth">Sweden is renowned for it’s high taxes. But as an individual living here, you get a lot of benefits in return, therefore we have generated your personal benefits of moving to Gothenburg and Sweden.</string>
+
+    <string-array name="healthCare">
+        <item>Once you obtain a work permit, you will receive a Swedish personal identity number and you only have to pay a maximum of SEK1,100 during a 12 month period for healthcare.
+        Once you have paid a total of SEK1,100, you get free care for the rest of the 12 month period.
+        For prescription medications you will pay a maximum of SEK2,200 during a 12 month period.
+        The fee for visiting a doctor or emergency ward in Västra Götaland County will be approximately SEK100–300.</item>
+    </string-array>
+
+
+    <string-array name="dentalCare_under25">
+        <item>Dental care in Västra Götaland County is free of charge for people under 25 years old.</item>
+    </string-array>
+
+
+    <string-array name="dentalCare_over25">
+        <item>If you are 25 or over, the costs of dental care are partially subsidised if you are registered with the Swedish Social Insurance 	Agency (Försäkringskassan).
+        The agency offers a subsidy of SEK150–300 per year, depending on your age.
+        It also provides high-cost protection for major dental work.
+        You will pay the first SEK3,000, and will receive 50% compensation on charges between SEK3,000 and SEK15,000, and 80% compensation on charges above SEK15,000.</item>
+    </string-array>
+
+    <string-array name="education_user">
+        <item>Education is free for those of you that acquire a work permit.
+        You may apply to learn the Swedish language at SFI (Swedish for Immigrants) from the year you turn 20, where from there you may choose to continue onto Komvux (adult education) where you can further their Swedish studies and find a pathway to further higher education.</item>
+    </string-array>
+
+    <string-array name="education_partner">
+        <item>Education is free for your partner.
+        He/she may apply to learn the Swedish language at SFI (Swedish for Immigrants) from the year they turn 20, where from there they may choose to continue onto Komvux (adult education) where they can further their Swedish studies and find a pathway to further higher education.</item>
+    </string-array>
+
+
+    <string-array name="education_kid_16_19">
+    <item>The Swedish school system offers your child to free education.
+    Between the ages of 16 and 19, your child will attend upper secondary school where balanced meals are also provided to them.
+    He/she also has the opportunity to attend The International High School of the Gothenburg Region (IHGR).
+    IHGR aims to educate young, independent and knowledgeable students from a broad mix of nationalities, cultures and personalities.</item>
+    </string-array>
+
+    <string-array name="genderEquality">
+        <item>Every year, Sweden has never ranked lower than 4th out of 140 countries according to the international Organisation World Economic Forum.
+        Since 1980, gender discrimination in the workplace has been illegal and since 2009, employers must actively promote equality between men and women and harassment is not tolerated.</item>
+    </string-array>
+
+    <string-array name="employeesRights">
+        <item>Worker’s rights are an essential part of labour in Sweden.
+        As a worker in Sweden, one can expect strong workers’ rights and attractive employment conditions.
+        All workers are entitled to at least 25 days of paid vacation per year.
+        When a worker is off work due to illness, one is entitled to sick leave pay from the employer.
+        Workers are also entitled to 480 days of paternity leave.</item>
+    </string-array>
+
+    <string-array name="jobSecurity">
+        <item>Sweden was rated second in the world for job security in HSBC’s 2017 Expat Explorer Survey.
+        The Swedish Work Environment Authority has the mandate from the government to ensure that companies and businesses follow the laws about the work environment and working hours.
+        About 90 percent of all employees are covered by collective agreements.
+        Due to the strong union presence in Sweden, employees experience excellent working conditions compared with many other countries.
+        In addition, all unions have unemployment funds to financially support workers in case of unemployment.</item>
+    </string-array>
+
+    <string-array name="pension">
+        <item>To add info</item>
+    </string-array>
+
+    <string-array name="publicTransport">
+        <item>To add info</item>
+    </string-array>
+
+    <string-array name="workPermit_family_EU">
+    <item>As you and your family are EU citizens, all family members have the right to work, study or live in Sweden without a residence permit.
+    All family members will also have the right to start and operate a private business.
+    The right of EU citizens to stay in Sweden without a residence permit is called right of residence.</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>Sweden ranks second in the Top List of Non-Native English Speaking European countries.
+        This serves as reassurance that immigrants who have no prior Swedish knowledge can live just as safely and experience the same quality of life as a Swedish-speaking individual.
+        Most multinational companies, which have subsidiaries in Gothenburg, do not require employees to speak Swedish, especially given the multicultural environment they want to promote at the workplace.</item>
+    </string-array>
+
+    <string-array name="annual_leave">
+        <item>As a worker in Sweden, you can expect strong workers’ rights and attractive employment conditions.
+        All workers are entitled to at least 25 days of paid vacation per year.
+        When you are off work due to illness you are entitled to sick leave pay from your employer.
+        Your first sick day is unpaid, but thereafter you will receive up to 80% of your salary.</item>
+    </string-array>
+
+    <string-array name="accommodation">
+        <item>Upon receiving a residence permit, non-EU individuals can start looking for accommodation, which is made really easy with websites like boplats.se, where you can create a personalized search for accommodation, and all sellers/tenants are verified and trustworthy.</item>
+    </string-array>
+
+    <string-array name="accommodation_singapore">
+    <item>Upon receiving a residence permit, non-EU individuals can start looking for accommodation, which is made really easy with websites like boplats.se, where you can create a personalized search for accommodation, and all sellers/tenants are verified and trustworthy.
+    Accommodation in Sweden is considered more affordable for you, coming from Singapore.</item>
+    </string-array>
+
+
+</resources>
